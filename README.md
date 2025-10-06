@@ -9,8 +9,8 @@ Repository containing simple training and testing scripts for fine-tuning a tran
 ├── train.py
 ├── test.py
 ├── utils.py
-├── models/        # saved checkpoints
-└── data/          # place train.csv and test.csv here
+├── Models/        # saved checkpoints
+└── Data/          # place train.csv and test.csv here
 ```
 
 ## Expected data format
