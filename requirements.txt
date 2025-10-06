@@ -1,1 +1,8 @@
-
+transformers>=4.30
+datasets
+torch
+seqeval
+scikit-learn
+pandas
+numpy
+tqdm
